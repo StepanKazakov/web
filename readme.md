@@ -1,2 +1,2 @@
-Start to create my first web server wuth STEPIK
+Start to create my first web server with STEPIK
 
